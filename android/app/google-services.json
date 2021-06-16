@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577975327431",
+    "firebase_url": "https://login-d802d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-d802d",
+    "storage_bucket": "login-d802d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577975327431:android:5772ba9f89f4aff7807ce2",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577975327431-7jm06cl04kugsqgh4lp46gd7nh8pj6o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUfIl1wFbcSUz2k135h_gSNk4aU7e5-UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577975327431-7jm06cl04kugsqgh4lp46gd7nh8pj6o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
