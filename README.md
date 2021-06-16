@@ -1,4 +1,4 @@
-# login_register
+# Digitalize-Lab
 
 A new Flutter project.
 
